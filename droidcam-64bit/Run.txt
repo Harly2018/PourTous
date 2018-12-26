@@ -1,0 +1,8 @@
+
+First start avec la commande: 
+
+./install pour installer,
+
+ puis la commande 
+
+./droidcam pour lancer le logiciel.
